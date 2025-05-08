@@ -4,7 +4,7 @@
                                                         ------------------------------------------------                                                             
 # REQUIS:
 - Logiciel Adobe Acrobat Reader DC
-- Programme par défaut pour les PDF 
+- Programme par defaut pour les PDF 
 ########################################################################################################################################################################>
 Clear-Host
 # LANCEMENT DU SCRIPT EN TANT QU'ADMIN
