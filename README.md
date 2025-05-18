@@ -35,8 +35,7 @@ It is useful in professional or personal settings to save time when managing lar
 ## 👤 Auteur
 
 **Sebastien C.**  
-🎓 Promo 2025  
-📫 [Profil GitHub](https://github.com/schatel-dev)
+📫 [Profil GitHub](https://github.com/DevTech-Solution)
 
 ---
 
